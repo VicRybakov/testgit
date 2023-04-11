@@ -1,7 +1,7 @@
 package gittest;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main([]вм args) {
         System.out.println("Dead world!");
     }
 }
